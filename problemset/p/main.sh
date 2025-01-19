@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 
 read -p "Enter the problem name: " name
-echo "
-def main(inp):
+echo "def main(inp):
   return
 
 if __name__ == '__main__':
