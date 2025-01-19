@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-read -p "Enter the problem name: " name
+name=$1
 echo "def main(inp):
   return
 
